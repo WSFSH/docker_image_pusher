@@ -1,3 +1,5 @@
 nginx
+--platform=linux/arm64 python:3.12.2
 --platform=linux/arm64 python:3.7.15
 --platform=linux/arm64 mysql
+--platform=linux/arm64 redis
