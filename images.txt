@@ -1,3 +1,4 @@
+golang:1.17-buster
 nginx
 oceanbase/oceanbase-ce
 --platform=linux/arm64 python:3.12.2
