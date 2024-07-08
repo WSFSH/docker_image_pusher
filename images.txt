@@ -1,6 +1,2 @@
-golang:1.17-buster
-golang:1.19-buster
-golang:1.21-buster
-nginx
-oceanbase/oceanbase-ce
+python:3.7.17
 --platform=linux/arm64 python:3.12.2
