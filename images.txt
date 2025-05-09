@@ -1,2 +1,1 @@
-wvppro/wvppro
-python
+python:3.10.12
